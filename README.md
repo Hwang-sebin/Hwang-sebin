@@ -1,4 +1,29 @@
-## Hi there 👋
+<div align="center">
+  <h2>🌱주니어 백엔드 개발자 황세빈입니다.🌱</h2>
+</div>
+
+## 🏫 
+- 가천대학교 컴퓨터공학과 ( 2020.3 ~ )
+
+- <h2>⚡Main Skills⚡</h2>
+<div>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+## 💻 Projects
+- Fitter(사용자 맞춤 식단 및 운동 추천을 위한 AI 딥러닝 예측 서비스)
+
+## 💬 Connect to me:
+<p align="left">
+  <a href="mailto:sbsimon0701@gmail.com">
+    <img src="https://img.shields.io/badge/sbsimon0701@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:sbsimon701@naver.com">
+    <img src="https://img.shields.io/badge/sbsimon701@naver.com-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <!--
 **Hwang-sebin/Hwang-sebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
