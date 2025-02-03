@@ -16,7 +16,9 @@
 </div>
 
 ## 💻 Projects
-- 사용자 맞춤 식단 및 운동 추천을 위한 AI 딥러닝 예측 서비스 [Fitter](https://github.com/flirteam/Exercise-Backend)
+
+### 🔹 [Fitter](https://github.com/flirteam/Exercise-Backend)
+사용자 맞춤 식단 및 운동 추천을 위한 AI 딥러닝 예측 서비스
 
 ## 💬 Connect to me:
 <p align="left">
