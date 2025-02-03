@@ -2,10 +2,11 @@
   <h2>🌱주니어 백엔드 개발자 황세빈입니다.🌱</h2>
 </div>
 
-## 🏫 
-- 가천대학교 컴퓨터공학과 ( 2020.3 ~ )
+## 🏫 About
+<p> 🔭황세빈(1999.07.01) </p>
+<p> 🔭Gachon univ. Computer Science 💻 가천대학교 컴퓨터공학과(2020.03 ~ ) </p>
 
-- <h2>⚡Main Skills⚡</h2>
+## ⚡Main Skill
 <div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -23,6 +24,9 @@
   </a>
   <a href="mailto:sbsimon701@naver.com">
     <img src="https://img.shields.io/badge/sbsimon701@naver.com-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/say__vb/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </p>
 
 <!--
