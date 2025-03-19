@@ -8,6 +8,7 @@
 <p> 🔭Gachon univ. Computer Science 💻 가천대학교 컴퓨터공학과(2020.03 ~ ing) </p>
 <p> 🔭육군 병장 만기 전역(2021.02 ~ 2022.08) </p>
 <p> 🔭카카오엔터프라이즈 SW아카데미 6기 (2025.02 ~ ing) </p>
+<p> ☁️ IT 연합 동아리, kakao x 9oorm 구름톤 유니브 4기 미르미(2025.03 ~ ing) </p>
 
 
 ## ⚡Main Skill
