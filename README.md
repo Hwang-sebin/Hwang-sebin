@@ -9,7 +9,7 @@
 <p> 🔭육군 병장 만기 전역(2021.02 ~ 2022.08) </p>
 <p> 🔭최선어학원 송파점 지원실 조교 (2022.10 ~ ing) </p>
 <p> 🔭카카오엔터프라이즈 SW아카데미 6기 (2025.02 ~ ing) </p>
-<p> ☁️ IT 연합 동아리, kakao x 9oorm 구름톤 유니브 4기 미르미(2025.03 ~ ing) [**9oormthonUNIV**](https://github.com/9oormthon-univ) </p>
+<p> ☁️ IT 연합 동아리, kakao x 9oorm 구름톤 유니브 4기 미르미(2025.03 ~ ing) </p>
 
 
 ## ⚡Main Skill
