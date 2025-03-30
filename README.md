@@ -26,6 +26,10 @@
 ### 🔹 [Fitter](https://github.com/flirteam/Exercise-Backend)
 사용자 맞춤 식단 및 운동 추천을 위한 AI 딥러닝 예측 서비스 - **🏆 가천대학교 P-실무프로젝트 우수상 수상**
 
+
+## 📝 certificate
+* SQLD(SQL 개발자) - 2025.04 ~
+
 ## 💬 Connect to me:
 <p align="left">
   <a href="mailto:sbsimon0701@gmail.com">
@@ -37,9 +41,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
-
-## 📝 certificate
-* SQLD(SQL 개발자) - 2025.04 ~
 
 <!--
 **Hwang-sebin/Hwang-sebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
