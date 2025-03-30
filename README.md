@@ -38,6 +38,9 @@
   </a>
 </p>
 
+## 📝 certificate
+* SQLD(SQL 개발자) - 2025.04 ~
+
 <!--
 **Hwang-sebin/Hwang-sebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
