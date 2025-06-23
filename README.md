@@ -29,6 +29,7 @@
 
 ## 📝 certificate
 * SQLD(SQL 개발자) - 2025.04 ~
+* ADsP(데이터 분석 준 전문가) - 2025.06 ~
 
 ## 💬 Connect to me:
 <p align="left">
