@@ -29,7 +29,7 @@ RAG 기반 카카오워크 AI 챗봇 및 데이터 관리 시스템
 ### 🔹 [Fitter](https://github.com/flirteam/Exercise-Backend)
 사용자 맞춤 식단 및 운동 추천을 위한 AI 딥러닝 예측 서비스 - **🥈 가천대학교 P-실무프로젝트 우수상 수상**
 
-### 🔹 [HomeProtector](https://github.com/Commeliers/user-service)
+### 🔹 [HomeProtector](https://github.com/Commeliers)  
 사회 초년생들을 위한 부동산 플랫폼 서비스 
 
 ## 📝 certificate
